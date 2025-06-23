@@ -21,3 +21,17 @@
 // counter-- --> 7
 // counter-- --> 6
 // console.log(counter);
+
+// let firstNumber = 5
+// let secondNumber = 7
+
+// sum = firstNumber + secondNumber
+// diff = firstNumber - secondNumber
+// multiplication = firstNumber* secondNumber
+// division = firstNumber / secondNumber
+// power = firstNumber ** firstNumber
+// console.log(sum);
+// console.log(diff);
+// console.log(multiplication);
+// console.log(division);
+// console.log(power);
