@@ -1,7 +1,7 @@
 //  STRINGS
-let firstName = "Govinda "
-let secondName = ""
-let lastName = "Bhusal"
+// let firstName = "                 Govinda                  "
+// let secondName = ""
+// let lastName = "Bhusal"
 // console.log(firstName);
 // console.log(secondName);
 // console.log(lastName);
@@ -28,6 +28,24 @@ let lastName = "Bhusal"
 // console.log(firstName.split(' ').join(' '));
 
 // 7. INCLUDES
-console.log(firstName.includes());
+// console.log(firstName.includes());
 
-// just for the streak
+// 8. TRIM
+// console.log(firstName.trim());
+
+// let firstName = "Govinda"
+// let lastName = "Bhusal"
+
+// let fullName= `${firstName} ${lastName}`
+// console.log(fullName);
+
+// ********************************** challange *************************************
+
+// let favActorFirstName = `Michael B. `
+// let favActorLastName = `Jordan`
+// let fullName = favActorFirstName.concat(favActorLastName)
+// console.log(fullName);
+// console.log(fullName.toUpperCase());
+// let message = `My favourite actor is ${fullName.toUpperCase()} he is a talented and versatile actor`
+// message += `, his best show is sinners`
+// console.log(message);
